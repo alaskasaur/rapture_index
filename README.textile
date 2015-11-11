@@ -1,0 +1,3 @@
+There's this guy that keeps an index of how likely the rapture is based on how closely contemporary issues mirror the preconditions described in Daniel and Revelation. It's fascinating. Completely subjective, obviously, but fascinating. He doesn't keep his historical data public, though. Thus, the scraper. Just for fun. Enjoy.
+
+If someone can show me how to manually order the columns so that the date is leftmost and total is either the second column or the rightmost column, I'd be mighty appreciative.
